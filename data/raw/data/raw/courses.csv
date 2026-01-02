@@ -1,0 +1,5 @@
+course_id,department,enrollment,start_time,end_time
+IE3000,Engineering,45,09:00,10:15
+IE4000,Engineering,35,10:30,11:45
+BIO2100,Science,40,09:30,10:45
+BUS3100,Business,30,11:00,12:15

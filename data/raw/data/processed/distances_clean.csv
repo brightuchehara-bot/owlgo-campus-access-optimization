@@ -1,0 +1,9 @@
+from_location,to_location,minutes
+Lot51,Engineering,6
+Lot51,Science,8
+CentralDeck,Engineering,5
+CentralDeck,Science,6
+NorthLot,Business,4
+Engineering,Science,2
+Engineering,Business,3
+Science,Business,2

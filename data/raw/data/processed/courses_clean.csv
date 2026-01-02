@@ -1,0 +1,5 @@
+course_id,department,enrollment,start_time,end_time
+IE3000,Engineering,45,2026-01-02 09:00:00,2026-01-02 10:15:00
+IE4000,Engineering,35,2026-01-02 10:30:00,2026-01-02 11:45:00
+BIO2100,Science,40,2026-01-02 09:30:00,2026-01-02 10:45:00
+BUS3100,Business,30,2026-01-02 11:00:00,2026-01-02 12:15:00
